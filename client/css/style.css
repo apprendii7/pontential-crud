@@ -1,0 +1,27 @@
+.thNome{
+	
+	width:70%;
+	
+}
+
+.buttonSearch {
+	
+	width:99.8%;
+	margin-left:0.1%;
+	margin-right:0.1%;
+	position:fixed;
+	bottom:70px;
+}
+
+
+.iconsActions {
+	
+	font-size:37px;
+	
+}
+
+.containerForm {
+	
+	padding-bottom:170px !important;
+	
+}
